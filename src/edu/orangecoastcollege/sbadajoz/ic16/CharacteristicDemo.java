@@ -1,5 +1,11 @@
 package edu.orangecoastcollege.sbadajoz.ic16;
+/*
+Badajoz, Seve
+CS A170
+November 1, 2016
 
+IC16
+*/
 public class CharacteristicDemo {
     public static void main(String[] args) {
         Characteristic funny1 = new Characteristic("To be able to make someone laugh");
