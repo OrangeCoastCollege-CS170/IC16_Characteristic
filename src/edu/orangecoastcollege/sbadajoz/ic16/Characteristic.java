@@ -1,4 +1,12 @@
 package edu.orangecoastcollege.sbadajoz.ic16;
+/*
+Badajoz, Seve
+CS A170
+November 1, 2016
+
+IC16
+*/
+
 
 public class Characteristic {
     private String mDescription;
